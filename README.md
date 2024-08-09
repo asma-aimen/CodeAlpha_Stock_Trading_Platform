@@ -5,6 +5,7 @@
 This is a simple console-based Stock Trading Platform written in Java. The platform allows users to simulate buying and selling stocks, view market data, and manage a portfolio. It provides a basic understanding of stock trading operations and portfolio management.
 
 
+
 **Features**
 
 **Market Data View:** Displays current prices of available stocks.
@@ -16,6 +17,7 @@ This is a simple console-based Stock Trading Platform written in Java. The platf
 **View Portfolio:** Displays the user's portfolio balance and the stocks they own.
 
 
+
 **Technologies Used**
 
 **Java:** The application is implemented using Java.
@@ -25,6 +27,7 @@ This is a simple console-based Stock Trading Platform written in Java. The platf
 **ArrayList:** Used to store market data.
 
 **HashMap:** Used to store and manage the user's portfolio.
+
 
 
 **Usage**
@@ -40,6 +43,7 @@ After starting the program, users can interact with the system through a simple 
 **View Portfolio:** Shows the current portfolio, including balance and stock holdings.
 
 **Exit:** Close the application.
+
 
 **Contributing**
 
