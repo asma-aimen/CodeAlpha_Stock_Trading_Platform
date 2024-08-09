@@ -1,4 +1,4 @@
-# CodeAlpha_Stock_Trading_Platform
+# Stock_Trading_Platform
 
 **Overview**
 
